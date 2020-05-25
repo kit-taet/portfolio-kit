@@ -14,10 +14,10 @@ User will be able to access my portfolio that contain my portfolios, my blogs, a
 -----------------------------------------------------------------------------------
 
 <h1>Screenshots</h1>
-<img src="img/index.jpg"><br>
-<img src="img/portfolio.jpg"><br>
-<img src="img/blog.jpg"><br>
-<img src="img/contactme.jpg">
+<img src="img/index.JPG"><br>
+<img src="img/portfolio.JPG"><br>
+<img src="img/blog.JPG"><br>
+<img src="img/contactme.JPG">
 
 -----------------------------------------------------------------------------------
 
