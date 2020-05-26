@@ -167,6 +167,10 @@ input[type=submit]:hover {
   font-size: x-large;
 }
 
+.submit {
+  margin: 10 auto;
+  padding: 10px auto;
+}
 
 
 /*blog intro*/
